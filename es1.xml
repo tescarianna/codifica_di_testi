@@ -3,12 +3,15 @@
     file name: project.xml
     Author: tescarianna
     Date: 04/08/2022-->
-<!DOCTYPE prova >                                           
+<!DOCTYPE tei SYSTEM "project.dtd" >                                           
 
-<body>                                                      
-    
+<tei>                                                      
+
+    <header> </header> 
+    <facsimile> </facsimile>
+    <text> </text>
 
 
-</body>
+</tei>
 
 <!-- questo è un commento !-->
