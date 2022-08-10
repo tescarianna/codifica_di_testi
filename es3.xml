@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>      
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<TEI>
+    <!-- HEADER -->
+    <teiHeader>
+        <fileDesc> <!-- informazioni sul file corrente, non sul documento originale --> 
+            <titleStmt> 
+                <title xml:lang="it">Picolo Pikolo</title>
+                <author >Franceschini</author>
+             </titleStmt>
+
+            <pubblicationStmt> 
+                <publisher>Università di Pisa</publisher>
+                <date when="2022-07">Luglio 2022</date>
+                <availability status="free">
+                    <p>Opera ad accesso libero</p>
+                </availability>
+                <pubPlace>Pisa</pubPlace>
+            </pubblicationStmt>
+            <sourceDesc> <!-- Descrizione della fonte primaria, quindi il testo originale --> </sourceDesc>
+        </fileDesc>
+
+        <text>  
+            <body>
+                <div>
+                    <head>Il Picolo, Pikolo di Primo Levi</head>
+                    <p>
+                        In una tra le più belle pagine della letteratura del Novecento, un <rs type="person"> prigioniero del Lager di Monowitz presso Auschwitz </rs>, 
+                        mentre va a prendere il rancio per il suo reparto con un <rs type="person">compagno </rs>, gli recita e spiega il <ptr>«canto di Ulisse»</ptr>, 
+                        ossia il <ptr>xxvi dell’Inferno dantesco</ptr>, cogliendone lui stesso aspetti sino ad allora, forse, non pienamente compresi: 
+                        la lezione culmina in un messaggio di umanità e salvezza, in quel luogo di abbrutimento e sterminio <quote>(«Fatti non foste a viver come bruti»)</quote>, 
+                        ma si chiude col tema dei sommersi <quote>(«Infin che il mar fu sopra noi richiuso»)</quote>. 
+                    </p>
+                    <p>
+                        I due non sono nella stessa posizione gerarchica. Chi recita è <name type="person">Primo <name>, un italiano laureato in chimica, semplice detenuto <foreign xml:lang="de">(Häftling)</foreign> del «Kommando Chimico», 
+                        ossia un reparto specializzato al servizio della fabbrica di gomma Buna; l’altro, un ebreo alsaziano arrestato quand’era studente, ha invece, all’in terno del Kommando, 
+                        una «carica» di cui si indicano in dettaglio attribuzioni, incombenze e vantaggi:
+                        Non era il Vorarbeiter, era solo <name type="person">Jean</name>, il Pikolo del nostro Kommando. <name type="person">Jean</name> era uno studente alsaziano; benché avesse già ventiquattr’anni, era il più giovane <foreign xml:lang="de">Häftling </foreign> del <foreing xml:lang="de"> Kommando</foreign> Chimico. 
+                        Era perciò toccata a lui la carica di Pikolo, vale a dire di fattorino scritturale, addetto alla pulizia della baracca, alle consegne degli attrezzi, alla lavatura delle gamelle, alla contabilità delle ore di lavoro del Kommando. 
+                    </p>
+                
+                    <p>
+                        Jean parlava correntemente francese e tedesco: appena si riconobbero le sue scarpe sul gradino più alto della scaletta, tutti smisero di raschiare: 
+                        <q><said><foreign xml:lang="de"> «Also, Pikolo, was gibt es Neues? <foreign xml:lang="fr">«Qu’est-ce qu’il-y-a comme soupe aujourd’hui?»[…]  </foreign></said></q>
+                        Jean era molto benvoluto al Kommando. 
+                    </p>
+                    <p>
+                        Bisogna sapere che la carica di Pikolo costituisce un gradino già assai elevato nella gerarchia delle Prominenze: il Pikolo (che di solito non ha più di diciassette anni) non lavora manualmente, 
+                        ha mano libera sui fondi della marmitta del rancio e può stare tutto il giorno vicino alla stufa: «perciò» ha diritto a mezza razione supplementare, ed ha buone probabilità di divenire amico e confidente del Kapo, 
+                        dal quale riceve ufficialmente gli abiti e le scarpe smesse. Ora, <name type="person">Jean </name> era un Pikolo eccezionale […], non trascurava di mantenere rapporti umani coi compagni meno privilegiati; 
+                        d’altra parte, era stato tanto abile e perseverante da affermarsi nella fiducia di <name type="person">Alex </name>, il Kapo.
+                    </p>
+
+                    <p>
+                        […] Per quanto <name type="person">Jean</name> non abusasse della sua posizione, già avevamo potuto constatare che una sua parola, detta nel tono giusto e al momento giusto, aveva grande potere; 
+                        già più volte era valsa a salvare qualcuno di noi dalla frusta o dalla denunzia alle SS. Così come al Primo del racconto corrisponde il personaggio reale di <name type="person">Primo Levi </name>, nato a Torino del <date>1919 </date>,
+                        a «Jean, il Pikolo» corrisponde <name type="person">Jean Samuel</name>, nato a Wasselonne (Bas-Rhin) nel <date>1922 <date> e dunque di <num><age>22 anni</age><num>, e non <num><age>24</age><num>, nel <date>1944 </date>. Dopo la liberazione e la fine della guerra Jean viene a sapere che Primo è ancora vivo e,
+                        reperitone l’indirizzo, il <date when="19460313">13 marzo 1946</date> gli scrive una lettera in francese: all’oscuro di quanto l’amico stesse facendo, si firma <signed><name>Picolo</name> ex 176.397</signed> (il suo numero identificativo ad Auschwitz) e continuerà a firmarsi così o talora <signed>Piccolo<signed>, 
+                        come aveva già fatto rivolgendosi ad altri compagni di prigionia, a riprova che questo era il suo soprannome in tale cerchia.
+                    </p>
+
+                    <p>
+                        Primo risponde il <date when="19460323">23 marzo</date> da Avigliana, firmandosi a sua volta <signed> <name>Primo</name> - ex 174 517</signed> (numero inferiore, in quanto era giunto ad Auschwitz in precedenza) e dice tra l’altro:
+                        <q><foreign xml:lang="fr"> je travaille comme chimiste ici à Avigliana […]. J’écris: des poésies, des essais, même des 
+                            contes rapport à la vie du Lager […]. J’ai intention de recueillir à la fin tout ça dans un 
+                            livre.</q>
+                            Dopo una seconda lettera del <date when="19460406">6 aprile 1946</date>, il successivo <date when="19460524">24 maggio</date> <name type="person">Primo</name> scrive ancora, da Torino:
+                            <q><foreign xml:lang="fr">je t’envoie trois poésies et l’un des contes que j’ai écrit, en échantillon de moi-même. 
+                        </foreign></q>
+                    </p>
+                </div>
+            </body>
+        </text>
+    </teiHeader>
+</TEI>
